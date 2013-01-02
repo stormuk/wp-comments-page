@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Storm Comments Page
+Plugin Name: Storm Separate Comments Page
 Description: Generate a separate page for comments
 Version: 1
 Author: Storm Consultancy
