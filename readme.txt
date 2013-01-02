@@ -1,4 +1,4 @@
-=== Separate Comments Page ===
+=== Storm Separate Comments Page ===
 Contributors: stormuk, ffffelix
 Donate link: http://www.stormconsultancy.co.uk/
 Tags: comments, popup comments, comments page, custom endpoints, endpoint, permalinks
