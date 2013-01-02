@@ -1,4 +1,4 @@
-Separate Comments Page for WordPress
+Storm Separate Comments Page for WordPress
 ====================================
 
 This plugin generates a separate comments page for each post at /comments/, using the WordPress [rewrite endpoints API](http://make.wordpress.org/plugins/2012/06/07/rewrite-endpoints-api/).
