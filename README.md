@@ -1,3 +1,6 @@
+:warning: This code is not maintained, it is here for reference only 
+==========
+
 Storm Separate Comments Page for WordPress
 ====================================
 
